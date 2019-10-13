@@ -1,16 +1,16 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
 <link data-asynced='1' as='style' onload='this.rel="stylesheet"' type="text/css" media="all" href="css/1.css" rel="preload" />
-<title>Sirhuka - Spotify Premium Plan</title>
+<title>Sirhuka - Voucher WIFI.ID 30 Hari</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Promo Spotify Premium Plan" />
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 <meta name="locale" content="id_ID" />
 <meta name="type" content="article" />
-<meta name="description" content="Promo Spotify Premium Plan" />
+<meta name="description" content="Promo Voucher WIFI ID" />
 <meta nama="site_name" content="Sirhuka" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="Promo Spotify Premium Plan" />
-<meta name="twitter:title" content="Promo Spotify Premium Plan" />
+<meta name="twitter:description" content="Promo Voucher WIFI ID" />
+<meta name="twitter:title" content="Promo Voucher WIFI ID" />
 
 <style id='elementor-frontend-inline-css' type='text/css'>
     .elementor-widget-heading .elementor-heading-title {
