@@ -6,7 +6,7 @@
     <script src="https://use.fontawesome.com/07cae87f83.js"></script>
 </head>
 
-<body class="page-template page-template-page_landingpress page-template-page_landingpress-php page page-id-5388 page-landingpress page-landingpress-full header-inactive footer-inactive elementor-default elementor-page elementor-page-5388"> <a class="skip-link screen-reader-text" href="#content">Langsung ke konten</a>
+<body class="page-template page-template-page_landingpress page-template-page_landingpress-php page page-id-5388 page-landingpress page-landingpress-full header-inactive footer-inactive elementor-default elementor-page elementor-page-5388">
     <div class="site-canvas">
         <div id="page" class="site-container">
             <div class="site-inner">
