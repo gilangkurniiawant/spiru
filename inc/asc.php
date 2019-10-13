@@ -5,6 +5,7 @@
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 <meta name="locale" content="id_ID" />
 <meta name="type" content="article" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Temukan Cantik Alamimu Disini" />
 <meta nama="site_name" content="Sirhuka" />
 <meta name="twitter:card" content="summary_large_image" />
