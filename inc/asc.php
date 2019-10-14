@@ -2,9 +2,7 @@
 <link data-asynced='1' as='style' onload='this.rel="stylesheet"' type="text/css" media="all" href="https://landingpage.co.id/wp-content/cache/autoptimize/css/autoptimize_75f0db397815109a7f11126f15e6cbc1.css" rel="preload" />
 <title>Sirhuka - Temukan Cantik Alamimu Disini</title>
 <meta name="description" content="Temukan Cantik Alamimu Disini" />
-<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="locale" content="id_ID" />
-<meta name="type" content="article" />
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Temukan Cantik Alamimu Disini" />
 <meta nama="site_name" content="Sirhuka" />
