@@ -6,7 +6,7 @@
     <script src="https://use.fontawesome.com/07cae87f83.js"></script>
 </head>
 
-<body class="page-template page-template-page_landingpress page-template-page_landingpress-php page page-id-5388 page-landingpress page-landingpress-full header-inactive footer-inactive elementor-default elementor-page elementor-page-5388"> <a class="skip-link screen-reader-text" href="#content">Langsung ke konten</a>
+<body class="page-template page-template-page_landingpress page-template-page_landingpress-php page page-id-5388 page-landingpress page-landingpress-full header-inactive footer-inactive elementor-default elementor-page elementor-page-5388">
     <div class="site-canvas">
         <div id="page" class="site-container">
             <div class="site-inner">
@@ -68,7 +68,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="6173aed4" class="elementor-element elementor-element-6173aed4 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="1080" height="1349" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201349'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s1.jpg" /><noscript><img width="1080" height="1349" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Header.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="1080" height="1349" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201349'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s1.jpg" /><noscript><img width="1080" height="1349" src="img/Masker-Spirulina-Jasa-Landingpage-Header.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -158,7 +158,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="18897dc" class="elementor-element elementor-element-18897dc elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="700" height="740" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20740'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Model-Masker-Spirulina-Jasa-Landingpage-1.png" /><noscript><img width="700" height="740" src="https://landingpage.co.id/wp-content/uploads/2018/12/Model-Masker-Spirulina-Jasa-Landingpage-1.png" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="700" height="740" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20740'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Model-Masker-Spirulina-Jasa-Landingpage-1.png" /><noscript><img width="700" height="740" src="img/Model-Masker-Spirulina-Jasa-Landingpage-1.png" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -228,7 +228,7 @@
                                                                     </div>
                                                                     <div data-id="72fdaff1" class="elementor-element elementor-element-72fdaff1 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" data-lazy-src="img/s2.jpg" /><noscript><img src="https://landingpage.co.id/wp-content/uploads/elementor/thumbs/Mockup-Masker-Spirulina-Jasa-Landingpage-o0nc1nc8lkydvrc8t5hcwix7hoy6f8qo0dkf3x8yyo.png" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" data-lazy-src="img/s2.jpg" /><noscript><img src="img/s2.jpg" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -377,7 +377,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="d7a6e4c" class="elementor-element elementor-element-d7a6e4c elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="500" height="416" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20416'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Serbuk-Masker-Spirulina-copy.jpg" /><noscript><img width="500" height="416" src="https://landingpage.co.id/wp-content/uploads/2018/12/Serbuk-Masker-Spirulina-copy.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="500" height="416" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20416'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Serbuk-Masker-Spirulina-copy.jpg" /><noscript><img width="500" height="416" src="img/Serbuk-Masker-Spirulina-copy.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -495,7 +495,7 @@
                                                                     </div>
                                                                     <div data-id="2f549f3e" class="elementor-element elementor-element-2f549f3e elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="600" height="450" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" /><noscript><img width="600" height="450" src="https://landingpage.co.id/wp-content/uploads/2018/12/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="600" height="450" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" /><noscript><img width="600" height="450" src="img/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                     <div data-id="4160185" class="elementor-element elementor-element-4160185 elementor-widget elementor-widget-heading" data-element_type="heading.default">
@@ -507,7 +507,7 @@
                                                                     </div>
                                                                     <div data-id="d5b9c10" class="elementor-element elementor-element-d5b9c10 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Masker Spirulina Asli Palsu Jasa Landingpage copy" alt="Masker Spirulina Asli Palsu Jasa Landingpage copy" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Asli-Palsu-Jasa-Landingpage-copy.jpg" /><noscript><img src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Asli-Palsu-Jasa-Landingpage-copy.jpg" title="Masker Spirulina Asli Palsu Jasa Landingpage copy" alt="Masker Spirulina Asli Palsu Jasa Landingpage copy" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Masker Spirulina Asli Palsu Jasa Landingpage copy" alt="Masker Spirulina Asli Palsu Jasa Landingpage copy" data-lazy-src="img/Masker-Spirulina-Asli-Palsu-Jasa-Landingpage-copy.jpg" /><noscript><img src="img/Masker-Spirulina-Asli-Palsu-Jasa-Landingpage-copy.jpg" title="Masker Spirulina Asli Palsu Jasa Landingpage copy" alt="Masker Spirulina Asli Palsu Jasa Landingpage copy" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                     <div data-id="36fd6a5" class="elementor-element elementor-element-36fd6a5 elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
@@ -558,7 +558,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="6ea345b" class="elementor-element elementor-element-6ea345b elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Girls-2-Jasa-Landingpage.jpg" /><noscript><img width="1080" height="1080" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Girls-2-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Girls-2-Jasa-Landingpage.jpg" /><noscript><img width="1080" height="1080" src="img/Masker-Spirulina-Girls-2-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -580,7 +580,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="674a287" class="elementor-element elementor-element-674a287 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s1.jpg" /><noscript><img width="1080" height="1080" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Girls-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s1.jpg" /><noscript><img width="1080" height="1080" src="img/Masker-Spirulina-Girls-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -597,7 +597,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="3c17202" class="elementor-element elementor-element-3c17202 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Masker Spirulina Jasa Landingpage 12" alt="Masker Spirulina Jasa Landingpage 12" data-lazy-src="https://landingpage.co.id/wp-content/uploads/elementor/thumbs/Masker-Spirulina-Jasa-Landingpage-12-o0po78xge48miqmayl8ywam840xqewalyvq5v51nuo.jpeg" /><noscript><img src="https://landingpage.co.id/wp-content/uploads/elementor/thumbs/Masker-Spirulina-Jasa-Landingpage-12-o0po78xge48miqmayl8ywam840xqewalyvq5v51nuo.jpeg" title="Masker Spirulina Jasa Landingpage 12" alt="Masker Spirulina Jasa Landingpage 12" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Masker Spirulina Jasa Landingpage 12" alt="Masker Spirulina Jasa Landingpage 12" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-12-o0po78xge48miqmayl8ywam840xqewalyvq5v51nuo.jpeg" /><noscript><img src="img/Masker-Spirulina-Jasa-Landingpage-12-o0po78xge48miqmayl8ywam840xqewalyvq5v51nuo.jpeg" title="Masker Spirulina Jasa Landingpage 12" alt="Masker Spirulina Jasa Landingpage 12" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -608,7 +608,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="45e5201" class="elementor-element elementor-element-45e5201 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1041" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201041'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Asli-Jasa-Landingpage-Produk-1-1.jpg" /><noscript><img width="1080" height="1041" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Asli-Jasa-Landingpage-Produk-1-1.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1041" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201041'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Asli-Jasa-Landingpage-Produk-1-1.jpg" /><noscript><img width="1080" height="1041" src="img/Masker-Spirulina-Asli-Jasa-Landingpage-Produk-1-1.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -647,7 +647,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="f241c03" class="elementor-element elementor-element-f241c03 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="241" height="241" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20241%20241'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Bonus-copy-1.jpg" /><noscript><img width="241" height="241" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Bonus-copy-1.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="241" height="241" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20241%20241'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-Bonus-copy-1.jpg" /><noscript><img width="241" height="241" src="img/Masker-Spirulina-Jasa-Landingpage-Bonus-copy-1.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div data-id="478a608" class="elementor-element elementor-element-478a608 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
@@ -665,7 +665,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="cec4c5f" class="elementor-element elementor-element-cec4c5f elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="241" height="241" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20241%20241'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Bonus-1-Free-Ongkir.jpg" /><noscript><img width="241" height="241" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Bonus-1-Free-Ongkir.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="241" height="241" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20241%20241'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-Bonus-1-Free-Ongkir.jpg" /><noscript><img width="241" height="241" src="img/Masker-Spirulina-Jasa-Landingpage-Bonus-1-Free-Ongkir.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div data-id="6f3ac02" class="elementor-element elementor-element-6f3ac02 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
@@ -716,7 +716,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="fb970e0" class="elementor-element elementor-element-fb970e0 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="512" height="512" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Money-Back-Guaranteed-Fix.png" /><noscript><img width="512" height="512" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Money-Back-Guaranteed-Fix.png" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="512" height="512" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-Money-Back-Guaranteed-Fix.png" /><noscript><img width="512" height="512" src="img/Masker-Spirulina-Jasa-Landingpage-Money-Back-Guaranteed-Fix.png" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div data-id="96b969c" class="elementor-element elementor-element-96b969c elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
@@ -734,7 +734,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="ea0aee6" class="elementor-element elementor-element-ea0aee6 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="512" height="512" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Jaminan-Kepuasan-100-Fix.png" /><noscript><img width="512" height="512" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-Jaminan-Kepuasan-100-Fix.png" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="512" height="512" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-Jaminan-Kepuasan-100-Fix.png" /><noscript><img width="512" height="512" src="img/Masker-Spirulina-Jasa-Landingpage-Jaminan-Kepuasan-100-Fix.png" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div data-id="82e9de9" class="elementor-element elementor-element-82e9de9 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
@@ -787,7 +787,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="c5d826c" class="elementor-element elementor-element-c5d826c elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-2a.jpg" /><noscript><img width="474" height="554" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-2a.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-2a.jpg" /><noscript><img width="474" height="554" src="img/Masker-Spirulina-Jasa-Landingpage-2a.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -798,7 +798,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="15e65bd" class="elementor-element elementor-element-15e65bd elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-2.png" /><noscript><img width="474" height="554" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-2.png" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-2.png" /><noscript><img width="474" height="554" src="img/Masker-Spirulina-Jasa-Landingpage-2.png" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -809,7 +809,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="596017f" class="elementor-element elementor-element-596017f elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-3.jpg" /><noscript><img width="474" height="554" src="https://landingpage.co.id/wp-content/uploads/2018/12/Masker-Spirulina-Jasa-Landingpage-3.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-3.jpg" /><noscript><img width="474" height="554" src="img/Masker-Spirulina-Jasa-Landingpage-3.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1214,10 +1214,10 @@
         </div>
     </div>
     <div id="back-to-top"><i class="fa fa-angle-up"></i></div>
-    <script type='text/javascript' src='https://landingpage.co.id/wp-includes/js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='css/jquery.js'></script>
     <script type='text/javascript'>
         var ElementorProFrontendConfig = {
-            "ajaxurl": "https:\/\/landingpage.co.id\/wp-admin\/admin-ajax.php",
+
             "nonce": "5f68d3e606",
             "shareButtonsNetworks": {
                 "facebook": {
@@ -1314,7 +1314,7 @@
                 "excerpt": ""
             }
         };
-    </script> <noscript><img height="1" width="1" alt="fbpx" style="display:none" src="https://www.facebook.com/tr?id=2047717038853044&ev=PageView&noscript=1" /></noscript> <noscript><img height="1" width="1" alt="fbpx" style="display:none" src="https://www.facebook.com/tr?id=409851219615744&ev=PageView&noscript=1" /></noscript> <noscript><img height="1" width="1" alt="fbpx" style="display:none" src="https://www.facebook.com/tr?id=144645299485062&ev=PageView&noscript=1" /></noscript>
+    </script>
     <!--[if LandingPress]></body></html><![endif]-->
     <script>
         window.lazyLoadOptions = {
@@ -1382,7 +1382,7 @@
             }
         }, false);
     </script>
-    <script type="text/javascript" defer src="https://landingpage.co.id/wp-content/cache/autoptimize/js/autoptimize_7fd9201b2c99c802735dc143b7408e0c.js"></script>
+    <script type="text/javascript" defer src="css/tbh.js"></script>
 </body>
 
 </html>
