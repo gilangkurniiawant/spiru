@@ -498,23 +498,7 @@
                                                                             <div class="elementor-image"> <img loading="lazy" width="600" height="450" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" /><noscript><img width="600" height="450" src="img/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
-                                                                    <div data-id="4160185" class="elementor-element elementor-element-4160185 elementor-widget elementor-widget-heading" data-element_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <h1 class="elementor-heading-title elementor-size-default">
-                                                                                <font color="orange"><b>Awas!</b> Barang Tiruan!<br></font><b>Berikut Perbedaan Spirulina Asli & Palsu</b>
-                                                                            </h1>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div data-id="d5b9c10" class="elementor-element elementor-element-d5b9c10 elementor-widget elementor-widget-image" data-element_type="image.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Masker Spirulina Asli Palsu Jasa Landingpage copy" alt="Masker Spirulina Asli Palsu Jasa Landingpage copy" data-lazy-src="img/Masker-Spirulina-Asli-Palsu-Jasa-Landingpage-copy.jpg" /><noscript><img src="img/Masker-Spirulina-Asli-Palsu-Jasa-Landingpage-copy.jpg" title="Masker Spirulina Asli Palsu Jasa Landingpage copy" alt="Masker Spirulina Asli Palsu Jasa Landingpage copy" /></noscript></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div data-id="36fd6a5" class="elementor-element elementor-element-36fd6a5 elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-button-wrapper elementor-button-sticky-no"> <a href="#order" class="elementor-button-link elementor-button elementor-size-md"> <span class="elementor-button-content-wrapper"> <span class="elementor-align-icon-left elementor-button-icon"> <i class="fa fa-cart-plus" aria-hidden="true"></i> </span> <span class="elementor-button-text">Beli Sekarang</span> </span> </a></div>
-                                                                        </div>
-                                                                    </div>
+                                                                  
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -761,63 +745,7 @@
                                                     </div>
                                                 </div>
                                             </section>
-                                            <section data-id="4ece3074" class="elementor-element elementor-element-4ece3074 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
-                                                <div class="elementor-background-overlay"></div>
-                                                <div class="elementor-container elementor-column-gap-default">
-                                                    <div class="elementor-row">
-                                                        <div data-id="5585d9cd" class="elementor-element elementor-element-5585d9cd elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="7f7bcd5e" class="elementor-element elementor-element-7f7bcd5e elementor-widget elementor-widget-heading" data-element_type="heading.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <h1 class="elementor-heading-title elementor-size-default">Kata Mereka Setelah Menggunakan Masker Spirulina</h1>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
-                                            <section data-id="fa5014b" class="elementor-element elementor-element-fa5014b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
-                                                <div class="elementor-container elementor-column-gap-default">
-                                                    <div class="elementor-row">
-                                                        <div data-id="444a8bfb" class="elementor-element elementor-element-444a8bfb elementor-column elementor-col-33 elementor-inner-column" data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="c5d826c" class="elementor-element elementor-element-c5d826c elementor-widget elementor-widget-image" data-element_type="image.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-2a.jpg" /><noscript><img width="474" height="554" src="img/Masker-Spirulina-Jasa-Landingpage-2a.jpg" class="attachment-full size-full" alt="" /></noscript></div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div data-id="5d31681" class="elementor-element elementor-element-5d31681 elementor-column elementor-col-33 elementor-inner-column" data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="15e65bd" class="elementor-element elementor-element-15e65bd elementor-widget elementor-widget-image" data-element_type="image.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-2.png" /><noscript><img width="474" height="554" src="img/Masker-Spirulina-Jasa-Landingpage-2.png" class="attachment-full size-full" alt="" /></noscript></div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div data-id="c0c1501" class="elementor-element elementor-element-c0c1501 elementor-column elementor-col-33 elementor-inner-column" data-element_type="column">
-                                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                                <div class="elementor-widget-wrap">
-                                                                    <div data-id="596017f" class="elementor-element elementor-element-596017f elementor-widget elementor-widget-image" data-element_type="image.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="474" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20474%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Jasa-Landingpage-3.jpg" /><noscript><img width="474" height="554" src="img/Masker-Spirulina-Jasa-Landingpage-3.jpg" class="attachment-full size-full" alt="" /></noscript></div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </section>
+                                       
                                             <section data-id="b64a8c7" class="elementor-element elementor-element-b64a8c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
                                                 <div class="elementor-background-overlay"></div>
                                                 <div class="elementor-container elementor-column-gap-default">
@@ -1156,6 +1084,19 @@
                                                         </div>
                                                     </div>
                                             </section>
+                                            
+                                            
+                                            <div data-id="5747404" class="elementor-element elementor-element-f1f437b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="heading.default">
+                                                                        <div class="elementor-element elementor-element-478a608 elementor-widget elementor-widget-text-edito">
+                                                                           
+                                                                       
+                                                                    
+                                                                                                                                                             <h2 class="elementor-heading-title elementor-size-default">Hati- Hati, Sangat <b>BANYAK</b> Spirulina Palsu Yang Beredar Dengan Harga Yang Sangat Murah</h2>
+                                                                                                                                                              <h2 class="elementor-heading-title elementor-size-default">Spirulina Tersebut Tidak Akan Memberikan Manfaat Apapun Untuk Wajahmu</h2>
+                                                                        </div></div>
+                                            
+                                            
+                                            
                                             <section data-id="71201a9f" class="elementor-element elementor-element-71201a9f elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-default">
                                                     <div class="elementor-row">
