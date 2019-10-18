@@ -833,7 +833,7 @@
                                                                                             <div data-id="bbc4eeb" class="elementor-element elementor-element-bbc4eeb elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p style="text-align: center;"><span style="color: #000000;">Paket Lumayan Murah</span></p>
+                                                                                                        <p style="text-align: center;"><span style="color: #000000;">Paket Menuju Cantik</span></p>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -875,7 +875,7 @@
                                                                                             </div>
                                                                                             <div data-id="762b97a" class="elementor-element elementor-element-762b97a elementor-widget elementor-widget-heading" data-element_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Isi 33 Kapsul</h2>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Isi 12 Kapsul</h2>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div data-id="f694e4e" class="elementor-element elementor-element-f694e4e elementor-widget elementor-widget-divider" data-element_type="divider.default">
@@ -948,7 +948,7 @@
                                                                                             </div>
                                                                                             <div data-id="845dd2e" class="elementor-element elementor-element-845dd2e elementor-widget elementor-widget-heading" data-element_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Isi 88 Kapsul</h2>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Isi 28 Kapsul</h2>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div data-id="a57dcc5" class="elementor-element elementor-element-a57dcc5 elementor-widget elementor-widget-divider" data-element_type="divider.default">
@@ -1010,7 +1010,7 @@
                                                                                             <div data-id="ee6c09a" class="elementor-element elementor-element-ee6c09a elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p style="text-align: center;"><span style="color: #000000;">Rp. 290.000</span></p>
+                                                                                                        <p style="text-align: center;"><span style="color: #000000;">Rp. 325.000</span></p>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1021,7 +1021,7 @@
                                                                                             </div>
                                                                                             <div data-id="9b9f893" class="elementor-element elementor-element-9b9f893 elementor-widget elementor-widget-heading" data-element_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Isi 100 Kapsul</h2>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Isi 40 Kapsul</h2>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div data-id="09c89eb" class="elementor-element elementor-element-09c89eb elementor-widget elementor-widget-divider" data-element_type="divider.default">
