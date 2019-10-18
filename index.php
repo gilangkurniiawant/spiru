@@ -68,7 +68,7 @@
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div data-id="6173aed4" class="elementor-element elementor-element-6173aed4 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image"> <img loading="lazy" width="1080" height="1349" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201349'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s1.jpg" /><noscript><img width="1080" height="1349" src="img/Masker-Spirulina-Jasa-Landingpage-Header.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                                                    <div class="elementor-image"> <img loading="lazy" width="1080" height="1349" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201349'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/1mini.png" /><noscript><img width="1080" height="1349" src="img/Masker-Spirulina-Jasa-Landingpage-Header.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -228,7 +228,7 @@
                                                                     </div>
                                                                     <div data-id="72fdaff1" class="elementor-element elementor-element-72fdaff1 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" data-lazy-src="img/s2.jpg" /><noscript><img src="img/s2.jpg" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" data-lazy-src="img/mini2.png" /><noscript><img src="img/mini2.png" title="Mockup Masker Spirulina Jasa Landingpage" alt="Mockup Masker Spirulina Jasa Landingpage" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -542,7 +542,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="6ea345b" class="elementor-element elementor-element-6ea345b elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Masker-Spirulina-Girls-2-Jasa-Landingpage.jpg" /><noscript><img width="1080" height="1080" src="img/Masker-Spirulina-Girls-2-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s1.jpg" /><noscript><img width="1080" height="1080" src="img/Masker-Spirulina-Girls-2-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -553,7 +553,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="f3a99d2" class="elementor-element elementor-element-f3a99d2 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="700" height="700" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20700'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s2.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="700" height="700" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20700'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/mini2.png" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -564,7 +564,7 @@
                                                                 <div class="elementor-widget-wrap">
                                                                     <div data-id="674a287" class="elementor-element elementor-element-674a287 elementor-widget elementor-widget-image" data-element_type="image.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s1.jpg" /><noscript><img width="1080" height="1080" src="img/Masker-Spirulina-Girls-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
+                                                                            <div class="elementor-image"> <img loading="lazy" width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/s2.jpg" /><noscript><img width="1080" height="1080" src="img/Masker-Spirulina-Girls-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
