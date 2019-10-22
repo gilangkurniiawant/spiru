@@ -1,21 +1,4 @@
-<?php
-function is_https() {
-    if ($_SERVER['HTTPS'] == 1) {
-        return TRUE;
-    } elseif ($_SERVER['HTTPS'] == 'on') {
-        return TRUE;
-    } else {
-        return FALSE;
-    }
-}
-
-if (! is_https()) {
-    header("location: https://{$_SERVER['HTTP_HOST']}");
-}
-
-
-?>
-<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
+f<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
 <link data-asynced='1' as='style' onload='this.rel="stylesheet"' type="text/css" media="all" href="css/1.css" rel="preload" />
 <title>Sirhuka - Temukan Cantik Alamimu Disini</title>
 <meta name="description" content="Temukan Cantik Alamimu Disini" />
