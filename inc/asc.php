@@ -1,4 +1,4 @@
-f<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
 <link data-asynced='1' as='style' onload='this.rel="stylesheet"' type="text/css" media="all" href="css/1.css" rel="preload" />
 <title>Sirhuka - Temukan Cantik Alamimu Disini</title>
 <meta name="description" content="Temukan Cantik Alamimu Disini" />
