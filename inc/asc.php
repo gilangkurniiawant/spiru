@@ -1,8 +1,8 @@
 <?php
 function is_https() {
-    if (isset($_SERVER['HTTPS']) and $_SERVER['HTTPS'] == 1) {
+    if ($_SERVER['HTTPS'] == 1) {
         return TRUE;
-    } elseif (isset($_SERVER['HTTPS']) and $_SERVER['HTTPS'] == 'on') {
+    } elseif ($_SERVER['HTTPS'] == 'on') {
         return TRUE;
     } else {
         return FALSE;
