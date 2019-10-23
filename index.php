@@ -1093,7 +1093,7 @@
                                                                     
                                                                                                                                                              <h2 class="elementor-heading-title elementor-size-default">Hati- Hati, Sangat <b>BANYAK</b> Spirulina Palsu Yang Beredar Dengan Harga Yang Sangat Murah</h2>
                                                                                                                                                               <h2 class="elementor-heading-title elementor-size-default">Spirulina Tersebut Tidak Akan Memberikan Manfaat Apapun Untuk Wajahmu</h2>
-                                                                                                                                                                <h2 class="elementor-heading-title elementor-size-default">Kami Hanya Mengambil Untung Beberapa Persen Dari Produk Ini, Mahal Atau Murah Tergantung Kualitas Produk Yang Diberikan :)</h2>
+                                                                                                                                                                <h2 class="elementor-heading-title elementor-size-default">Original Saja Tidak Cukup, Kami Berusaha Untuk Mencapai Dan Mempertahankan Standar Tertinggi Dalam Kebersihan, Keamanan Produk Dan Ketertelusuran Produk, Sampai Pada Proses Pengemasan Hingga Barang Diterima Oleh Konsumen Dalam Kualitas Yang Benar-Benar Terjaga.</h2>
                                                                         </div></div>
                                             
                                             
