@@ -498,7 +498,7 @@
                                                                             <div class="elementor-image"> <img loading="lazy" width="600" height="450" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="img/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" /><noscript><img width="600" height="450" src="img/Sertifikat-Masker-Spirulina-Jasa-Landingpage.jpg" class="attachment-full size-full" alt="" /></noscript></div>
                                                                         </div>
                                                                     </div>
-                                                                  
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -745,7 +745,7 @@
                                                     </div>
                                                 </div>
                                             </section>
-                                       
+
                                             <section data-id="b64a8c7" class="elementor-element elementor-element-b64a8c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
                                                 <div class="elementor-background-overlay"></div>
                                                 <div class="elementor-container elementor-column-gap-default">
@@ -1066,11 +1066,11 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-button-wrapper elementor-button-sticky-no"> <a href="https://shopee.co.id/sirhuka/2867679188" class="elementor-button-link elementor-button elementor-size-md" target="_blank" style="background-color:red"> <span class=" elementor-button-content-wrapper"> <span class="elementor-align-icon-left elementor-button-icon"> <i class="fa fa-shopping-bag" aria-hidden="true"></i> </span> <span class="elementor-button-text">Shopee Store</span> </span> </a></div>
                                                                             </div>
-                                                                            
+
 
 
                                                                         </div>
-                                                                        
+
                                                                         <div data-id="4fe31a57" class="elementor-element elementor-element-4fe31a57 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-spacer">
@@ -1084,20 +1084,22 @@
                                                         </div>
                                                     </div>
                                             </section>
-                                            
-                                            
+
+
                                             <div data-id="5747404" class="elementor-element elementor-element-f1f437b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="heading.default">
-                                                                        <div class="elementor-element elementor-element-478a608 elementor-widget elementor-widget-text-edito">
-                                                                           
-                                                                       
-                                                                    
-                                                                                                                                                             <h2 class="elementor-heading-title elementor-size-default">Hati- hati, sangat <b>BANYAK</b> spirulina palsu yang beredar dengan harga yang sangat murah</h2>
-                                                                                                                                                              <h2 class="elementor-heading-title elementor-size-default">Spirulina tersebut tidak akan memberikan manfaat apapun untuk wajahmu</h2>
-                                                                                                                                                                <h2 class="elementor-heading-title elementor-size-default">Original saja tidak cukup, kami berusaha untuk mencapai dan mempertahankan standar tertinggi dalam kebersihan, keamanan produk dan ketertelusuran produk, sampai pada proses pengemasan hingga barang diterima oleh konsumen dalam kualitas yang benar-benar terjaga.</h2>
-                                                                        </div></div>
-                                            
-                                            
-                                            
+                                                <div class="elementor-element elementor-element-478a608 elementor-widget elementor-widget-text-edito">
+
+
+
+                                                    <h2 class="elementor-heading-title elementor-size-default">Hati- hati, sangat <b>BANYAK</b> spirulina palsu yang beredar dengan harga yang sangat murah</h2>
+                                                    <h2 class="elementor-heading-title elementor-size-default">Spirulina tersebut tidak akan memberikan manfaat apapun untuk wajahmu</h2>
+                                                    <h2 class="elementor-heading-title elementor-size-default">Original saja tidak cukup, kami berusaha untuk mencapai dan mempertahankan standar tertinggi dalam kebersihan, keamanan produk dan ketertelusuran produk, sampai pada proses pengemasan hingga barang diterima oleh konsumen dalam kualitas yang benar-benar terjaga.</h2>
+                                                </div>
+                                            </div>
+
+
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.300533102129!2d110.82252201447878!3d-7.542167076545349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a17c899cba509%3A0xe755e7cb8616f124!2sSirhuka%20-%20Spirulina%20Tiens%20Surakarta!5e0!3m2!1sid!2sid!4v1572033465911!5m2!1sid!2sid" width="300" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
                                             <section data-id="71201a9f" class="elementor-element elementor-element-71201a9f elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-default">
                                                     <div class="elementor-row">
@@ -1112,6 +1114,8 @@
                                                                     <div data-id="64e6c7e1" class="elementor-element elementor-element-64e6c7e1 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-text-editor elementor-clearfix">
+                                                                                Alamat: Gg. Gareng, Kadipiro, Banjarsari, Surakarta, Jawa Tengah.<br>
+
                                                                                 <p>Copyright @2019 <span style="color: #999999;"><strong>Sirhuka - Masker Spirulina</strong></span> – All Rights Reserved</p>
                                                                             </div>
                                                                             <br><br>
