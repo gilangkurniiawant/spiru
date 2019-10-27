@@ -1070,10 +1070,10 @@
 
 
                                                                         </div>
-                                                                        
+                                                                        <br>
                                                                          <div data-id="2a97e42" class="elementor-element elementor-element-2a97e42 elementor-widget elementor-widget-heading" data-element_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default">Ikuti Kami</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default">Ikuti Kami :</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div data-id="a6015b5" class="elementor-element elementor-element-a6015b5 elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
