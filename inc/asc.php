@@ -1,18 +1,20 @@
 <?php
+/*
+
 if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
     $location = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
     header('HTTP/1.1 301 Moved Permanently');
     header('Location: ' . $location);
     exit;
 }
-/*
+
+*/
 if ($_SERVER['HTTP_HOST'] != 'localhost' and $_SERVER['HTTP_X_FORWARDED_PROTO'] != "https") {
     $location = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
     header('HTTP/1.1 301 Moved Permanently');
     header('Location: ' . $location);
     exit;
 }
-*/
 ?>
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
 <link data-asynced='1' as='style' onload='this.rel="stylesheet"' type="text/css" media="all" href="css/1.css" rel="preload" />
