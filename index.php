@@ -1078,7 +1078,7 @@
                                                                     </div>
                                                                     <div data-id="a6015b5" class="elementor-element elementor-element-a6015b5 elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-button-wrapper elementor-button-sticky-no"> <a href="https://www.instagram.com/sirhuka" class="elementor-button-link elementor-button elementor-size-md" style="background-color:#bb27d9"> target="_blank"> <span class="elementor-button-content-wrapper"> <span class="elementor-align-icon-left elementor-button-icon"> <i class="fa fa-instagram" aria-hidden="true"></i> </span> <span class="elementor-button-text">Instagram</span> </span> </a></div>
+                                                                            <div class="elementor-button-wrapper elementor-button-sticky-no"> <a href="https://www.instagram.com/sirhuka" class="elementor-button-link elementor-button elementor-size-md" style="background-color:#bb27d9" target="_blank"> <span class="elementor-button-content-wrapper"> <span class="elementor-align-icon-left elementor-button-icon"> <i class="fa fa-instagram" aria-hidden="true"></i> </span> <span class="elementor-button-text">Instagram</span> </span> </a></div>
                                                                         </div>
 
                                                                         </div>
